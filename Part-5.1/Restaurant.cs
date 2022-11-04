@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Messagin;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +10,7 @@ namespace Part_5._1
     public class Restaurant
     {
         private readonly List<Table> tables=new List<Table>();
+        private readonly Producer producer = new Producer("BookingNotification", "localHost");
         public Restaurant()
         {
             for (ushort i = 1; i <= 10; i++)
@@ -38,12 +40,14 @@ namespace Part_5._1
                 var table=tables.FirstOrDefault(t=>t.SitCounts>countPerson&&t._State==State.Free);
                 await Task.Delay(1000*5);
                 table.SetState(State.Blocked);
-
-                Console.WriteLine(table is null 
-                    ?$"Now all table ocupate"
-                    :$"We find table {table.id}");
-                await Task.Delay(2000 * 10);
-                table.SetState(State.Free);
+                producer.Send(table is null
+                    ? "ВСе столики заняты"
+                    : $"Готово ваш столик номер {table.id}");
+                //Console.WriteLine(table is null 
+                //    ?$"Now all table ocupate"
+                //    :$"We find table {table.id}");
+                //await Task.Delay(2000 * 10);
+                //table.SetState(State.Free);
 
             });
         }

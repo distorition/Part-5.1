@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BrtbQrROLGHPoQvaaNDE4zXnem8mP6plC4JUMPDsBY/39LuEY/dnNXOjT4UqGIjhzm9UMQKIdh0Jj76G6hidIQ==",
+  "dgSpecHash": "3WBAyiOq8uorlWZyGHN51Mc0Rgs5Lzu8kzd2DYBUfKfEZsrKGkW4xJs4qtOD4N545pjATaTuNJzpW9rNYXJEHA==",
   "success": true,
   "projectFilePath": "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part-5.1\\Part-5.1\\Part-5.1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\matvey\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mM96Q4vMSHaXQz0OD80YK8EyyN+FblVd/EPIfCFmlgPDhLduPxheL4kAeMzQ7Kd+7uPuXY7uaCVBtULHe0k4Q==",
+  "success": true,
+  "projectFilePath": "D:\\visual Project\\КУРСЫ GEKK BRAINS\\Part-5.1\\Kafka\\Kafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matvey\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\matvey\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
