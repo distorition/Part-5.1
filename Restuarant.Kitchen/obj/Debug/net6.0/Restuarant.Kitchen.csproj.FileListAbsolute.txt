@@ -1,0 +1,5 @@
+D:\visual Project\КУРСЫ GEKK BRAINS\Part-5.1\Restuarant.Kitchen\obj\Debug\net6.0\Restuarant.Kitchen.csproj.AssemblyReference.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\Part-5.1\Restuarant.Kitchen\obj\Debug\net6.0\Restuarant.Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual Project\КУРСЫ GEKK BRAINS\Part-5.1\Restuarant.Kitchen\obj\Debug\net6.0\Restuarant.Kitchen.AssemblyInfoInputs.cache
+D:\visual Project\КУРСЫ GEKK BRAINS\Part-5.1\Restuarant.Kitchen\obj\Debug\net6.0\Restuarant.Kitchen.AssemblyInfo.cs
+D:\visual Project\КУРСЫ GEKK BRAINS\Part-5.1\Restuarant.Kitchen\obj\Debug\net6.0\Restuarant.Kitchen.csproj.CoreCompileInputs.cache
